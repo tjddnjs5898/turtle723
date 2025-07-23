@@ -1,3 +1,6 @@
+#초음파 거리에 따른 거북이 이동구현
+# 벽에 닿으면 돌아감
+
 import serial
 import time
 import turtle
